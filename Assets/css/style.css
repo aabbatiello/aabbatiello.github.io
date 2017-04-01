@@ -1,0 +1,142 @@
+
+
+
+
+
+img {
+display: block;
+}
+
+header {
+background-color: #ffffff;
+height: 50px;
+padding-top: 0px
+margin-top: 50px;
+margin-bottom: 40px;
+border-bottom: solid;
+border-bottom-color: #cccccc;
+font-family: "Times New Romans";
+font-size: 18px;
+}
+
+#header1 {
+float: left;
+margin-left: 245px;
+background-color: #ffffff;	
+padding-top: 20px;
+background-color: #4aaaa5;
+color: #ffffff;
+font-size: 30px;
+letter-spacing: 1px;
+
+}
+
+#header2 {
+float:right;
+padding-top: 20px;
+padding-right: 300px;
+background-color: #ffffff;
+font-family: "Times New Romans";
+font-size: 18px;
+}
+
+
+h2{
+font-size: 30px;
+color: #4aaaa5;
+padding-top:20px;
+padding-bottom: 20px;
+border-bottom: solid;
+border-bottom-width: 2px;
+}
+
+h3{
+color: #4aaaa5;
+border-bottom: solid;
+border-bottom-width: 2px;
+padding-left: 40px;
+margin-top: 10px;
+padding-bottom: 10px;
+font-family: "Times New Romans";
+font-size: 20px;
+
+}
+
+body{ 
+    background-image: url("../images/concrete_seamless 2/concrete_seamless.png");                    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+ }
+
+
+p {
+font-size: 20px;
+color:#777777;
+letter-spacing: 1px;
+}
+
+
+
+section {
+margin: 0 .5% 24px .5%;
+clear: both;
+float: left;
+margin-left: 240px;
+width: 40%;
+border-style: solid;
+border-color:#dddddd;
+background-color: #ffffff;
+}
+
+
+aside {
+width: 18%;
+border-style: solid;
+border-color:#dddddd;
+float: right;
+background-color: #ffffff;
+margin-right: 20%;
+}
+
+#socialmedia{
+padding-left: 5%;
+}
+
+footer {
+border-top: solid;
+border-top-color: #4aaaa5;
+border-top-width: 10px;
+clear: both;
+text-align: center;
+background-color: #666666;
+padding: 40px
+}
+
+#pic1{
+width: 50%;
+height: 50%;
+}
+#pic2{
+float: left;
+width: 1.5%;
+height: 30%;
+
+}
+#pic3{
+float: left;
+width: 50%;
+height: 40%;
+
+}
+#pic4{
+float: left;
+margin-right: 10%;
+width: 1.5%;
+height: 30%;
+}
+#pic5{
+float: left;
+width: 10.5%;
+height: 30%;
+}
